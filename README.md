@@ -6,5 +6,5 @@ A pairs trade or pair trading is a market neutral trading strategy enabling trad
 3) Next we define our strategy and generate the trading signals during backtesting on another time period which we have defined-<br>
    * Go "Long" the spread whenever the z-score is below -1.0
    * Go "Short" the spread when the z-score is above 1.0
-   * Exit positions when the z-score approaches zero
+   * Exit positions when the z-score approaches zero<br>
 4)Next we have created calculated the returns of our portfolio on the basis of strategy
